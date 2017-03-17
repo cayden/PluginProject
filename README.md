@@ -4,6 +4,7 @@
 2. 通过插件开发
 本文通过插件开发来实现加载插件中的资源文件
 ###程序演示
+![程序演示](http://upload-images.jianshu.io/upload_images/667368-f4bf10eb9fff8ac3?imageMogr2/auto-orient/strip)
 可以打开链接 [效果演示](http://weibo.com/tv/v/EzNwkq0oP?fid=1034:8c610fcd0d501a61a67ddf56da6e4225"optional title")
 打开后显示2个动画，上面的动画是加载的本地动画，下面的动画是从插件里面加载的。
 ###代码介绍
